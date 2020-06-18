@@ -5,7 +5,7 @@ This is an application for analysing the behaviour of a person recorded by a set
 ## Usage
 The application can be run with the following command :
 ```
-java -jar PT2020_30221_Tudor_Alexuc_Assignment_5.jar
+java -jar DataProcessor.jar
 ```
 The Activities.txt log is hardcoded as the read file so it has to be in the same folder as the .jar executable.
 
